@@ -1,0 +1,34 @@
+{
+  "unit_stats": {
+    "raw": {
+      "units": 14920,
+      "chars": 83996322,
+      "tokens_est": 26248850
+    },
+    "structure": {
+      "units": 6192,
+      "chars": 28217278,
+      "tokens_est": 8817899
+    },
+    "summary": {
+      "units": 3458,
+      "chars": 7768970,
+      "tokens_est": 2427803
+    }
+  },
+  "cpu_cost": {
+    "seconds_total": 15.109217882156372,
+    "structure_parse_seconds": 13.967334032058716
+  },
+  "bm25_index_seconds": {
+    "raw": 3.325848340988159,
+    "structure": 1.3161795139312744,
+    "summary": 0.4284648895263672
+  },
+  "questions": 36,
+  "budgets": [
+    8000,
+    32000
+  ],
+  "model_calls": 0
+}

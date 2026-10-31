@@ -1,0 +1,85 @@
+{
+  "time": 1792548981.239678,
+  "full_pool_trajectories": 100,
+  "full_pool_entry_counts": {
+    "raw_state": 3358,
+    "events": 3258,
+    "procedure_notes": 100,
+    "hint_notes": 100
+  },
+  "fresh_artifacts_built_in_this_logged_run": 100,
+  "inherited_prebuilt_trajectory_ids": [],
+  "inherited_prior_profile_cost_not_in_these_sums": "Preserved separately; not treated as zero or claimed all100fresh construction cost",
+  "groups": {
+    "EVENT_GENERATION_SYSTEM_PROMPT": {
+      "physical_requests": 3258,
+      "response_statuses": {
+        "200": 3258
+      },
+      "known_usage_sum": {
+        "prompt_tokens": 68655373,
+        "completion_tokens": 579378,
+        "total_tokens": 69234751
+      },
+      "missing_usage_records": [],
+      "summed_API_seconds_not_wallclock": 56516.38872170448
+    },
+    "EVENT_GENERATION_REPAIR_SYSTEM_PROMPT": {
+      "physical_requests": 51,
+      "response_statuses": {
+        "200": 51
+      },
+      "known_usage_sum": {
+        "prompt_tokens": 14689,
+        "completion_tokens": 9598,
+        "total_tokens": 24287
+      },
+      "missing_usage_records": [],
+      "summed_API_seconds_not_wallclock": 598.4268414974213
+    },
+    "embedding_0.6B": {
+      "physical_requests": 400,
+      "response_statuses": {
+        "200": 400
+      },
+      "known_usage_sum": {
+        "prompt_tokens": 14291924,
+        "completion_tokens": 0,
+        "total_tokens": 14291924
+      },
+      "missing_usage_records": [],
+      "summed_API_seconds_not_wallclock": 307.89435291290283
+    },
+    "NOTE_GENERATION_SYSTEM_PROMPT": {
+      "physical_requests": 100,
+      "response_statuses": {
+        "200": 100
+      },
+      "known_usage_sum": {
+        "prompt_tokens": 3660327,
+        "completion_tokens": 226245,
+        "total_tokens": 3886572
+      },
+      "missing_usage_records": [],
+      "summed_API_seconds_not_wallclock": 9141.408344268799
+    },
+    "NOTE_GENERATION_REPAIR_SYSTEM_PROMPT": {
+      "physical_requests": 1,
+      "response_statuses": {
+        "200": 1
+      },
+      "known_usage_sum": {
+        "prompt_tokens": 559,
+        "completion_tokens": 397,
+        "total_tokens": 956
+      },
+      "missing_usage_records": [],
+      "summed_API_seconds_not_wallclock": 14.517746448516846
+    }
+  },
+  "current_run_build_HTTP_unknown_response_files": [],
+  "observed_build_wall_seconds_first_request_to_last_return": 25541.068235874176,
+  "API_sums_are_co_loaded_not_isolated_performance": true,
+  "new_model_calls_from_this_audit": 0,
+  "question_answers_or_gold_read": false
+}

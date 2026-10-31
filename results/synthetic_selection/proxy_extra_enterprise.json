@@ -1,0 +1,22 @@
+{
+ "bm25+nextdelta@8000": {
+  "hit": 64,
+  "n": 140,
+  "rate": 0.457
+ },
+ "bm25+nextdelta@32000": {
+  "hit": 90,
+  "n": 140,
+  "rate": 0.643
+ },
+ "phrase+nextdelta@8000": {
+  "hit": 69,
+  "n": 140,
+  "rate": 0.493
+ },
+ "phrase+nextdelta@32000": {
+  "hit": 92,
+  "n": 140,
+  "rate": 0.657
+ }
+}

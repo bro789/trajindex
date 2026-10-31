@@ -1,0 +1,326 @@
+{
+ "85251f36": {
+  "rewrite": "Change Request, Hardware, Incident, tabs, form body, clickable, ServiceNow, portal, form names, field labels, button labels, record values",
+  "usage": {
+   "prompt_tokens": 122,
+   "total_tokens": 153,
+   "completion_tokens": 31,
+   "prompt_tokens_details": null
+  }
+ },
+ "1bfd2eac": {
+  "rewrite": "change request form problem form incident form hardware form user form required fields mandatory fields field labels form names list names tab names button labels record values",
+  "usage": {
+   "prompt_tokens": 128,
+   "total_tokens": 156,
+   "completion_tokens": 28,
+   "prompt_tokens_details": null
+  }
+ },
+ "f3496ca5": {
+  "rewrite": "ServiceNow portal, Macbook Pro developer laptop, Sales Laptop, software options, laptop ordering, hardware configuration, device comparison, IT procurement, form name, list name, tab name, field label, button label, record value",
+  "usage": {
+   "prompt_tokens": 135,
+   "total_tokens": 181,
+   "completion_tokens": 46,
+   "prompt_tokens_details": null
+  }
+ },
+ "68107cba": {
+  "rewrite": "ServiceNow portal user management list filter avatar field initials image upload true false",
+  "usage": {
+   "prompt_tokens": 128,
+   "total_tokens": 143,
+   "completion_tokens": 15,
+   "prompt_tokens_details": null
+  }
+ },
+ "32d04f31": {
+  "rewrite": "loaner laptop order, order pipeline, stages, workflow stage, complete, final stage, remaining stages, order status, loaner request, procurement order, fulfillment stage, approval stage, shipping stage, delivery stage, zero stages, one stage, two stages, three stages",
+  "usage": {
+   "prompt_tokens": 137,
+   "total_tokens": 192,
+   "completion_tokens": 55,
+   "prompt_tokens_details": null
+  }
+ },
+ "aa64a8bd": {
+  "rewrite": "Problem form, Duplicate, Closed, State, Impact, Resolution, Duplicate, Problem list, Problem tab, Problem name, State field, Impact field, Resolution field, Duplicate value, Closed value",
+  "usage": {
+   "prompt_tokens": 135,
+   "total_tokens": 174,
+   "completion_tokens": 39,
+   "prompt_tokens_details": null
+  }
+ },
+ "3fd81278": {
+  "rewrite": "Service Catalog, Dell XPS 13, Operating System, Ubuntu, Windows 8, price, cost, dollar amount, brackets, default selection, item list, form fields, catalog item",
+  "usage": {
+   "prompt_tokens": 136,
+   "total_tokens": 176,
+   "completion_tokens": 40,
+   "prompt_tokens_details": null
+  }
+ },
+ "658fa827": {
+  "rewrite": "Standard Laptop Developer Laptop (Mac) service catalog order page optional software choice field label checkbox button record value",
+  "usage": {
+   "prompt_tokens": 141,
+   "total_tokens": 162,
+   "completion_tokens": 21,
+   "prompt_tokens_details": null
+  }
+ },
+ "95ae824f": {
+  "rewrite": "onboarding; offboarding",
+  "usage": {
+   "prompt_tokens": 188,
+   "total_tokens": 194,
+   "completion_tokens": 6,
+   "prompt_tokens_details": null
+  }
+ },
+ "507a0fe8": {
+  "rewrite": "Locked out, Mobile phone, Business phone, Title, Department, Language, Date format, Active, Password needs reset, Photo, Lock out, Active, Language, User, User record, Create user, Important fields, Required fields, Manual entry, Workflow, ServiceNow portal, Accessibility tree, Field labels, Button labels, Record values, Tab names, Form names, List names, Page names, \\boxed{B}",
+  "usage": {
+   "prompt_tokens": 190,
+   "total_tokens": 276,
+   "completion_tokens": 86,
+   "prompt_tokens_details": null
+  }
+ },
+ "756a7434": {
+  "rewrite": "Employee Onboarding request, Employee Center, HR Agent Workspace, Assign, Approve, Fulfill tasks, IT accounts, Equipment, Facilities access, HR forms, Update statuses, Verify completion, Close onboarding case, \\boxed{A}",
+  "usage": {
+   "prompt_tokens": 277,
+   "total_tokens": 326,
+   "completion_tokens": 49,
+   "prompt_tokens_details": null
+  }
+ },
+ "c60f4681": {
+  "rewrite": "Incident list, matching rules, Show Related Fields, bulk edit, assign, validate, filter, clear filters, verify results, bulk update, incident assignment workflow, predefined rules, agent assignment, ServiceNow portal, incident management, bulk edit assignments, validate results, clear existing filters, enable show related fields, apply matching rules, open incident list, correct incident list, assign incidents, N incidents, matching filters, close records, export incidents, edit excel, re-import, notify agents, find open incident, edit assignments, repeat, ask another agent, review later, update needed, correct steps, order, workflow, automation, efficiency, best practices, incident handling, agent suitability, predefined matching rules, bulk operations, validation steps, filter management, field visibility, record verification, assignment confirmation, process flow, service management, incident resolution, team allocation, resource matching, rule application, data verification, user interface, portal navigation, task completion, quality assurance, operational procedure, standard operating procedure, SOP",
+  "usage": {
+   "prompt_tokens": 253,
+   "total_tokens": 453,
+   "completion_tokens": 200,
+   "prompt_tokens_details": null
+  }
+ },
+ "bdb825a3": {
+  "rewrite": "Hardware list, Assigned to, filter, comparator, default, is, equals, ==, =, contains, ServiceNow, portal, dropdown, select, option",
+  "usage": {
+   "prompt_tokens": 155,
+   "total_tokens": 188,
+   "completion_tokens": 33,
+   "prompt_tokens_details": null
+  }
+ },
+ "5edd2533": {
+  "rewrite": "requested items list, internal stage, waiting_for_approval, Approval column, Pending Approval, Awaiting Approval, Approval Requested, \\boxed{B}",
+  "usage": {
+   "prompt_tokens": 204,
+   "total_tokens": 235,
+   "completion_tokens": 31,
+   "prompt_tokens_details": null
+  }
+ },
+ "6cb8ce37": {
+  "rewrite": "Create Incident form Caller field Problem CoordinatorATF icons",
+  "usage": {
+   "prompt_tokens": 146,
+   "total_tokens": 157,
+   "completion_tokens": 11,
+   "prompt_tokens_details": null
+  }
+ },
+ "876c720a": {
+  "rewrite": "Data Management Deletion Jobs, progress page, new field, job status, successfully completed",
+  "usage": {
+   "prompt_tokens": 140,
+   "total_tokens": 158,
+   "completion_tokens": 18,
+   "prompt_tokens_details": null
+  }
+ },
+ "e033e796": {
+  "rewrite": "Hardware Order; Request Number; Requested For; Cost Center; Charge Account; Asset Tag; Approval Status; Request Stage; Delivery Date; Shipping address; Final Confirmation; Additional Fields; Hardware Request Form; Asset Management; Procurement; Developer Laptop; Order Summary; Status; Stage; Financial Fields; Logistics Fields; \\boxed{B}",
+  "usage": {
+   "prompt_tokens": 235,
+   "total_tokens": 304,
+   "completion_tokens": 69,
+   "prompt_tokens_details": null
+  }
+ },
+ "41a18e5c": {
+  "rewrite": "Depreciation Method Depreciation Start Date Depreciation Schedule",
+  "usage": {
+   "prompt_tokens": 139,
+   "total_tokens": 153,
+   "completion_tokens": 14,
+   "prompt_tokens_details": null
+  }
+ },
+ "2d4e08b9": {
+  "rewrite": "Personalize List Columns;Assets;Users;Catalog Items;Selected;bottom;label;Assets;Users;Catalog Items;boxed;semicolons",
+  "usage": {
+   "prompt_tokens": 166,
+   "total_tokens": 197,
+   "completion_tokens": 31,
+   "prompt_tokens_details": null
+  }
+ },
+ "901b7d17": {
+  "rewrite": "Knowledge article, Search results, Header action button, Edit, Print, Share, Bookmark, Related articles, Table of contents, Back to search, Knowledge base",
+  "usage": {
+   "prompt_tokens": 136,
+   "total_tokens": 168,
+   "completion_tokens": 32,
+   "prompt_tokens_details": null
+  }
+ },
+ "e334d5c6": {
+  "rewrite": "Portfolio Planning Investment Portfolio Allocation maximize returns\n\\boxed{A}",
+  "usage": {
+   "prompt_tokens": 196,
+   "total_tokens": 210,
+   "completion_tokens": 14,
+   "prompt_tokens_details": null
+  }
+ },
+ "d63e8a7f": {
+  "rewrite": "onboarding task MacBook Pro REQ RITM Work notes Additional comments link parent ticket sys_user provisioning delivery location fulfillment group tracking details hardware record attachment completion message reassign hand off In Progress Closed - Complete",
+  "usage": {
+   "prompt_tokens": 475,
+   "total_tokens": 515,
+   "completion_tokens": 40,
+   "prompt_tokens_details": null
+  }
+ },
+ "f9c65fe6": {
+  "rewrite": "Self-Service Lifecycle Events HR Case Management User Administration Task\n\\boxed{H}",
+  "usage": {
+   "prompt_tokens": 206,
+   "total_tokens": 224,
+   "completion_tokens": 18,
+   "prompt_tokens_details": null
+  }
+ },
+ "eb3cfd03": {
+  "rewrite": "Request Management Requests Inventory Stockroom Procurement Sourcing Transfer Orders Service Catalog Stockroom Stock Rules My Approvals View",
+  "usage": {
+   "prompt_tokens": 283,
+   "total_tokens": 306,
+   "completion_tokens": 23,
+   "prompt_tokens_details": null
+  }
+ },
+ "767e4106": {
+  "rewrite": "problem description, short description, description, problem number, state, priority, impact, urgency, category, subcategory, cmdb_ci, assigned, short description, duplicate, unique",
+  "usage": {
+   "prompt_tokens": 122,
+   "total_tokens": 159,
+   "completion_tokens": 37,
+   "prompt_tokens_details": null
+  }
+ },
+ "32909aa1": {
+  "rewrite": "Problem Management, Problem List, Hashtag, Workload, Assignee, Status, Priority, Module, Filter, Search",
+  "usage": {
+   "prompt_tokens": 122,
+   "total_tokens": 147,
+   "completion_tokens": 25,
+   "prompt_tokens_details": null
+  }
+ },
+ "07ffeedf": {
+  "rewrite": "Problem Statement, Description, Category, Impact, Priority, Urgency, Assignment Group, Subcategory, Routing Cluster, State, Escalation Tier, Configuration Item, Workstream Code\n\\boxed{C}",
+  "usage": {
+   "prompt_tokens": 244,
+   "total_tokens": 287,
+   "completion_tokens": 43,
+   "prompt_tokens_details": null
+  }
+ },
+ "aca57021": {
+  "rewrite": "Service Catalog; Catalog Items; Cart\n\\boxed{A}",
+  "usage": {
+   "prompt_tokens": 237,
+   "total_tokens": 251,
+   "completion_tokens": 14,
+   "prompt_tokens_details": null
+  }
+ },
+ "c1c000eb": {
+  "rewrite": "Change All New change model cards preapproved model cards success rate",
+  "usage": {
+   "prompt_tokens": 141,
+   "total_tokens": 154,
+   "completion_tokens": 13,
+   "prompt_tokens_details": null
+  }
+ },
+ "9c32bca6": {
+  "rewrite": "Data Management Delete Job; Related Links; Delete Job; Documentation",
+  "usage": {
+   "prompt_tokens": 126,
+   "total_tokens": 139,
+   "completion_tokens": 13,
+   "prompt_tokens_details": null
+  }
+ },
+ "8b2a9dd3": {
+  "rewrite": "Hardware form model categories field options",
+  "usage": {
+   "prompt_tokens": 130,
+   "total_tokens": 137,
+   "completion_tokens": 7,
+   "prompt_tokens_details": null
+  }
+ },
+ "c3dbec17": {
+  "rewrite": "Data Management Delete Job, Condition, AND, OR, Add Condition, Remove Condition",
+  "usage": {
+   "prompt_tokens": 138,
+   "total_tokens": 155,
+   "completion_tokens": 17,
+   "prompt_tokens_details": null
+  }
+ },
+ "73b6738b": {
+  "rewrite": "Create Incident, Create Problem, Incident form, Problem form, immutable fields, read-only fields, field count, ServiceNow portal, accessibility tree",
+  "usage": {
+   "prompt_tokens": 115,
+   "total_tokens": 144,
+   "completion_tokens": 29,
+   "prompt_tokens_details": null
+  }
+ },
+ "c0593d69": {
+  "rewrite": "create-request subtabs, problem subtabs, incident subtabs, hardware subtabs, user subtabs, ServiceNow form tabs, field-entering section, subtab navigation",
+  "usage": {
+   "prompt_tokens": 162,
+   "total_tokens": 197,
+   "completion_tokens": 35,
+   "prompt_tokens_details": null
+  }
+ },
+ "32e719c2": {
+  "rewrite": "Macbook developer laptop order optional software Google Chrome",
+  "usage": {
+   "prompt_tokens": 121,
+   "total_tokens": 131,
+   "completion_tokens": 10,
+   "prompt_tokens_details": null
+  }
+ },
+ "2e90de97": {
+  "rewrite": "Data Management Delete Job, Job ID, Created By, Created On, Last Updated By, Last Updated On, Status, Submit, Cancel",
+  "usage": {
+   "prompt_tokens": 124,
+   "total_tokens": 152,
+   "completion_tokens": 28,
+   "prompt_tokens_details": null
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "calls": {
+  "chat": 1887,
+  "embed": 400
+ },
+ "tokens": {
+  "chat_prompt": 39542486,
+  "chat_completion": 478701,
+  "embed_prompt": 7363966,
+  "embed_completion": 0
+ },
+ "wall_seconds_first_to_last_request": 7930.421180725098
+}

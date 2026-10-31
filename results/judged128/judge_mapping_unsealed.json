@@ -1,0 +1,4101 @@
+{
+ "mapping": {
+  "2e1ed27778900c63f155e092": {
+   "id": "059974dd",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "66f15eab5481fd2b4e5619f1": {
+   "id": "059974dd",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "240c517b88cb5465ff74dd45": {
+   "id": "059974dd",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "d5d136b6d6f2b1962cd54a50": {
+   "id": "059974dd",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "8071e379ea40680a31e78c3e": {
+   "id": "109b334c",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "99505e83c25446d2668a1684": {
+   "id": "109b334c",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "d3d03ef1cc9da06ec3a7b3c9": {
+   "id": "109b334c",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "63925b38d7a00e7e91b10bc4": {
+   "id": "109b334c",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "572a9e8d3c11e04b491b3724": {
+   "id": "11cc7ac2",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a1c0ae016ae88715478eee28": {
+   "id": "11cc7ac2",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "20fe6f8fed1810cfb6cf65d9": {
+   "id": "11cc7ac2",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "045d5e0b3a3e46285da4cadf": {
+   "id": "11cc7ac2",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "4835d305b8b41259aeaf443a": {
+   "id": "12286151",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "81f0c2bec2a8427952b390bb": {
+   "id": "12286151",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "54ea83f962ba00ce894c632f": {
+   "id": "12286151",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "7b92f06dea0a6f35e7c6a570": {
+   "id": "12286151",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "15126e86a2ad43e8a6aa00eb": {
+   "id": "123b74fb",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "a6a7e5258c1332f16b9bea89": {
+   "id": "123b74fb",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "b58d109a5fc88ba419693596": {
+   "id": "123b74fb",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "52625c502e5c9592da204be2": {
+   "id": "123b74fb",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "1da204c64477454e7987aea9": {
+   "id": "12f8cfd2",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "9e4bab1af50cb710ce8abb29": {
+   "id": "12f8cfd2",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "fa6cf01b3f7231988e370fb7": {
+   "id": "12f8cfd2",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "a26823e7758a8a21791c59aa": {
+   "id": "12f8cfd2",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "2efcd87e230fa2d1fc1b27be": {
+   "id": "191184f3",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "ee9109da5317b94b5e2bfa6c": {
+   "id": "191184f3",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a9f253f4a279d7e7a6796aa7": {
+   "id": "191184f3",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "bfc32eb2094f7edf380f1cbf": {
+   "id": "191184f3",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "0d8f903f088779d9d43f97d6": {
+   "id": "19935d2d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "1f9acb017de5c431591ce263": {
+   "id": "19935d2d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d534891267e32c943d0658e0": {
+   "id": "19935d2d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "79c009a27b8a8b14bfa749dc": {
+   "id": "19935d2d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "56c050bbf1f2554028d0d658": {
+   "id": "247bf724",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "ca50f4fbe92e682f29b1d596": {
+   "id": "247bf724",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "f710b9b3ff90e0df544dc567": {
+   "id": "247bf724",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "802a1fe42e0bffaefa20babf": {
+   "id": "247bf724",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "c24d5b37fc15c4c62b0d0f2d": {
+   "id": "2ad054b5",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6179aae4c5dee50e108250e1": {
+   "id": "2ad054b5",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "24a4e2b245255dd9fde4cbd8": {
+   "id": "2ad054b5",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d2941e57d30a49d7c1e3fecf": {
+   "id": "2ad054b5",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "f8e4ad12e694edf1590bd2a1": {
+   "id": "2fab8b79",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "d49d7bfb3ddd713ac5d438b7": {
+   "id": "2fab8b79",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "45b9e16d3d603c1a1da997d6": {
+   "id": "2fab8b79",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "fb67255721c04263b05edbe4": {
+   "id": "2fab8b79",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "08717f93166c0b03dd1d1ea5": {
+   "id": "329742b1",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "166e8153d4f03f4eb6e1177f": {
+   "id": "329742b1",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "f4ab53cf257cbb37316f2f78": {
+   "id": "329742b1",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "1efe2a6917d070e31951873b": {
+   "id": "329742b1",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "5792a821ca9bdb867838a60a": {
+   "id": "3a7a7880",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "ddd9243c90d23ff544347d6c": {
+   "id": "3a7a7880",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "71981d358e368d60c51899b5": {
+   "id": "3a7a7880",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "c8a526b999889562911ff2df": {
+   "id": "3a7a7880",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "41f8177936e499d526f69f6b": {
+   "id": "3a836b31",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "7b017696dda149bb53969555": {
+   "id": "3a836b31",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "38556a9bad68c34deacd7548": {
+   "id": "3a836b31",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "adf5afccf4c4dc08d10cfb46": {
+   "id": "3a836b31",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "e1284efa4b3bd413f1b7e94a": {
+   "id": "3daef058",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "eb7e713571a2c3e468c6c14a": {
+   "id": "3daef058",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "731ab02c0274b51cfec66cb7": {
+   "id": "3daef058",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "b9a85b79bf80feb83efaa2c1": {
+   "id": "3daef058",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "27179554cd0403ec920d1bbb": {
+   "id": "43d9c5d0",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "725a6291d1efbf91125b9e93": {
+   "id": "43d9c5d0",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "d8716371198e07309d3514e1": {
+   "id": "43d9c5d0",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "0d19bc1b8eecc67d22879be2": {
+   "id": "43d9c5d0",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "ecec905606c90ffd9d8e1202": {
+   "id": "45d1e7f1",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "5bafab57ae2b20abdd613ab2": {
+   "id": "45d1e7f1",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "a4eebc9232abe754c7f7b39b": {
+   "id": "45d1e7f1",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "a0d40ca48761dcb785415c1d": {
+   "id": "45d1e7f1",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "5075ce1409fc76cc8f0eb65a": {
+   "id": "50bfa714",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "5aa1e5d3d117f9118c7dcddd": {
+   "id": "50bfa714",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "48388b1c1b121a718acdd508": {
+   "id": "50bfa714",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a8a212c60264309d590d72af": {
+   "id": "50bfa714",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "40bfb00ca582318989c0284b": {
+   "id": "571b841c",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "e40b2af523a426df2271ab0f": {
+   "id": "571b841c",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "64d8686663e74cf364799c52": {
+   "id": "571b841c",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "ff3826b9bb68859d6a7d75cc": {
+   "id": "571b841c",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "4069702d053df63442568912": {
+   "id": "579557d8",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "d75c39470945e4246c24b2e0": {
+   "id": "579557d8",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a77d1149ac8ea1ab6807b53c": {
+   "id": "579557d8",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "3b9a35f1c72dc7f176dcf73b": {
+   "id": "579557d8",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "cfc4298f734c3afe4832e039": {
+   "id": "57cd3560",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "369ea93cabfa1b25c016ed12": {
+   "id": "57cd3560",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "1e565b3ef1d7f575c5920950": {
+   "id": "57cd3560",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "cf34c498838d42a0bdcddbf1": {
+   "id": "57cd3560",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "575e41fc9d6aaa5b9e029b18": {
+   "id": "5849c18b",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "078f9130eb47d3c511ecb5cd": {
+   "id": "5849c18b",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "5328b5febaa55f764b7bd394": {
+   "id": "5849c18b",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "4ad24b4211faa1b364250e3b": {
+   "id": "5849c18b",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "0346781e0365159adf8a83d4": {
+   "id": "5ca112bf",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "a84040a8040a0176f2adc6ea": {
+   "id": "5ca112bf",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "be52828e32755d2d17af061d": {
+   "id": "5ca112bf",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "cd5bf1b07a3cd03d870e3c3e": {
+   "id": "5ca112bf",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "2e5fb50740d00af971a12784": {
+   "id": "6c285a23",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "2169d9852088cad439a31803": {
+   "id": "6c285a23",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "321770e3e88c78eb3ddc7bb7": {
+   "id": "6c285a23",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "e3c9e538eb05ea7e0257e694": {
+   "id": "6c285a23",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "45fcaaa4a0dd9347b199e1b5": {
+   "id": "6e0759a2",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "e01c4413e1e2ac539c5ec0c1": {
+   "id": "6e0759a2",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "76787dfd47f8701532facbee": {
+   "id": "6e0759a2",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "6337a219ed89638d2a990aea": {
+   "id": "6e0759a2",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "004cfe073b0db77cbcce8121": {
+   "id": "6fdda2fc",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "69ec942653642ec2c0e71cd2": {
+   "id": "6fdda2fc",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "debe0cce2e031a99c5a15795": {
+   "id": "6fdda2fc",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "854cd6650b1a9145b89984ef": {
+   "id": "6fdda2fc",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "0247aac7053cf5777108eb28": {
+   "id": "71026f57",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "58514bbc50a779878ba1aa95": {
+   "id": "71026f57",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "ef1f4a54a3d8196952155857": {
+   "id": "71026f57",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d872409d0d2a50fb1bcc54a0": {
+   "id": "71026f57",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "79148f6f314db9cf577b983f": {
+   "id": "7351cbcc",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "88bce86660eac8372d950d76": {
+   "id": "7351cbcc",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "df47c8b62e0e7885b01f74f6": {
+   "id": "7351cbcc",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "035dc6920515ee6f173fea51": {
+   "id": "7351cbcc",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "9642e5102461c922a4d1322a": {
+   "id": "7df9e2ff",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "832ec9ed1e8962c43a7bfc56": {
+   "id": "7df9e2ff",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "ade45579e4bcd30b52160170": {
+   "id": "7df9e2ff",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "9650a0c4d9cec1ca69c9b0ec": {
+   "id": "7df9e2ff",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "dcf68a116ce1a4a45d1a7bc7": {
+   "id": "823d133a",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "0e591f7172a85bbb64bf523d": {
+   "id": "823d133a",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "c097403de0c3512e80128e1f": {
+   "id": "823d133a",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "c01d4d6bd1e266a139a08de4": {
+   "id": "823d133a",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "a2227bf95ac9438858f12b5a": {
+   "id": "8bc6d989",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "239748a21b1e680cbac6500a": {
+   "id": "8bc6d989",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "c4874d9684012bc4740d1d0e": {
+   "id": "8bc6d989",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "f4d024c30d5da87fec48491b": {
+   "id": "8bc6d989",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "8e0e42334d121c883978f689": {
+   "id": "8d0400e5",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "427d205efe2b64068e479122": {
+   "id": "8d0400e5",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "eaffa34ab8a197dc0f562a04": {
+   "id": "8d0400e5",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "eb936f31de1b6412e4ec2cd3": {
+   "id": "8d0400e5",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6ef4a0cae2d440dc608e6c02": {
+   "id": "93d0613b",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "72bf6d62387cd49eb5738d26": {
+   "id": "93d0613b",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "bd6c899aa2f59e0b79aa6b4e": {
+   "id": "93d0613b",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a60998d8e3dcb7bdd5655979": {
+   "id": "93d0613b",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "b987783a18f6b7c7dd8337f6": {
+   "id": "99bc5d0d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "7ccce90797eb2d456d3b5a90": {
+   "id": "99bc5d0d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "a5613fa0de1885462540e2f1": {
+   "id": "99bc5d0d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "6316b8e446f678f3086d2da5": {
+   "id": "99bc5d0d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "cf4e9dc695fb09e534ba5894": {
+   "id": "9b34f55b",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "a045562add0546311e9461e3": {
+   "id": "9b34f55b",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "dc34070e130799590a55fb0f": {
+   "id": "9b34f55b",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "e67bcbcfcf2695f093175337": {
+   "id": "9b34f55b",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "61c7811930fec03a8e7f21e6": {
+   "id": "9ff0ffff",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "509a586c3903d6ebf43dfc85": {
+   "id": "9ff0ffff",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "d5a6ba167dae166179033687": {
+   "id": "9ff0ffff",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "709069bad41c5de07dbd684a": {
+   "id": "9ff0ffff",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "aa42a5c13dacd7c7ab674f71": {
+   "id": "a58c5548",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "0ee9550810d6fea2896cb23c": {
+   "id": "a58c5548",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "eeef766ce3d76e42d29af7d2": {
+   "id": "a58c5548",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "41aeae8b3019d19ae68f22e6": {
+   "id": "a58c5548",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "ad1fa8339b181db5b30e13ca": {
+   "id": "a667402d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "8b1dacad809f2c0c1b3d5dd4": {
+   "id": "a667402d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "172fc4ade6018cb3080b96a0": {
+   "id": "a667402d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "5ce902c79ed5e98ec49fc5f8": {
+   "id": "a667402d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "eb12958879d83b3331cc4fda": {
+   "id": "a8959d04-abs",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "0773d45b1c88827f13a71291": {
+   "id": "a8959d04-abs",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "82c039db9af60d103b555b4f": {
+   "id": "a8959d04-abs",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "7523a2554ee169def7d0e9b3": {
+   "id": "a8959d04-abs",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "7bd46a01f41698019027f322": {
+   "id": "b15314c0",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "f1c7076eada19fe2028300a4": {
+   "id": "b15314c0",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "22c7e354b696d55f784aee98": {
+   "id": "b15314c0",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "4f898ac39c8201aefd2ad9f4": {
+   "id": "b15314c0",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6a24de4b6041ac6c292874c1": {
+   "id": "b82d0dd6",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "86f3f825d50b60428b363f7e": {
+   "id": "b82d0dd6",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "7da290d6c6152ce84cf0088e": {
+   "id": "b82d0dd6",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "be7611f59def7fca849c7d42": {
+   "id": "b82d0dd6",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "c9f6ada6dd6bcfc39fcbdb40": {
+   "id": "bdfef1b9",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6ced30ab4f1a12a1ca4f5e8f": {
+   "id": "bdfef1b9",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "e92af86d1838799d45a4e648": {
+   "id": "bdfef1b9",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "babc9cdbb07d951a5d418e9f": {
+   "id": "bdfef1b9",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "85f90eca567a2a765323c083": {
+   "id": "bf4f8b37",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "f6208b70ceaf9e6426d134c4": {
+   "id": "bf4f8b37",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "aef852a98d40ca764733d111": {
+   "id": "bf4f8b37",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "46ddc1403861e46ca6b7efb6": {
+   "id": "bf4f8b37",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "8998b52e6d28da2d849a9457": {
+   "id": "c4c0e117",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "7c528adea28a683a06b49a6c": {
+   "id": "c4c0e117",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "adac697447f97ff590ec2e6a": {
+   "id": "c4c0e117",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "9d97776b67b1d4f1fd9f4ccd": {
+   "id": "c4c0e117",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "6894daceca507837c2998db9": {
+   "id": "cbcd74ae",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "faf9b656893b74313caf4e40": {
+   "id": "cbcd74ae",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "bb1bfa0449e3069b5e2f57b2": {
+   "id": "cbcd74ae",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "a3433d6501d83e24075d77cf": {
+   "id": "cbcd74ae",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "f9b0f1c999602b156936eed8": {
+   "id": "ce1cdb2d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a88bef6595742d332be8257e": {
+   "id": "ce1cdb2d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "7063f914994cc95816df0d51": {
+   "id": "ce1cdb2d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "67bfb3d1bbcfe241eae1c484": {
+   "id": "ce1cdb2d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "cf43512441c29545d80837bd": {
+   "id": "d0e556eb",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "7c45461592be20d7f3e0549e": {
+   "id": "d0e556eb",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6be4af3f28185a335fb6949a": {
+   "id": "d0e556eb",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "1e714f10fc24bafcdba43370": {
+   "id": "d0e556eb",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "bf4458be93cd34bb1af05d6f": {
+   "id": "d1f82e80",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "3ea9533ed0c8a315ce43128b": {
+   "id": "d1f82e80",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "e635ea933f4a5afb10436b78": {
+   "id": "d1f82e80",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "9294b03c3824925f7471d7cb": {
+   "id": "d1f82e80",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "9f35e41b79c8d2b63dbad83e": {
+   "id": "d72fb64d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "e00c236b0d6b917e6996a1a8": {
+   "id": "d72fb64d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "4f49f98d877ef14a664ad2d0": {
+   "id": "d72fb64d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "d4710071d036d5b12c193852": {
+   "id": "d72fb64d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "de0fcd6b3b92bdf748883a2e": {
+   "id": "dbe1a814",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "3a135c35181e4aae23037e68": {
+   "id": "dbe1a814",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "4edfb6429c90d985318faa91": {
+   "id": "dbe1a814",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "36c831d1edbbc959ce668c7e": {
+   "id": "dbe1a814",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "cbae26f657fa2a8dafa9defc": {
+   "id": "dc41b134",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "7a81787ca3070cfc1f85db34": {
+   "id": "dc41b134",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "7eb515b090a3020c23025815": {
+   "id": "dc41b134",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "75eca185bdbbccdd03972652": {
+   "id": "dc41b134",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "d80bc1c7fd55adf2723f4014": {
+   "id": "de0abc47",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "d6dc47a6780577ad35546fe4": {
+   "id": "de0abc47",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "9a7744cb570a5d1367d3e898": {
+   "id": "de0abc47",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "733c87c93a6a258104d54b8b": {
+   "id": "de0abc47",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "cdfa644d95096b3286a67485": {
+   "id": "eb8cf28b",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "a17e40ae0c82c7dd6b2ec961": {
+   "id": "eb8cf28b",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "f6363423165692424bb34889": {
+   "id": "eb8cf28b",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "09139b94a8f4bc979c018e91": {
+   "id": "eb8cf28b",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "966b2604ae3d435d92a1050a": {
+   "id": "ebad58ed",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "4b0bdcd35880cffecd07812b": {
+   "id": "ebad58ed",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6e0e56eb37db7d20e112f429": {
+   "id": "ebad58ed",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "28d850dff28ba856bd7d630d": {
+   "id": "ebad58ed",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "05fdb26c5b53b504e1edb448": {
+   "id": "ee5252a3",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "5c9b949e2b8a38be0b5757bf": {
+   "id": "ee5252a3",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "59b6d5a9686d039790862bca": {
+   "id": "ee5252a3",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "b7bfd518cf2577f8fe261220": {
+   "id": "ee5252a3",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "b2c4fe44bd50e8d8e03048ef": {
+   "id": "f02bec54",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "bf95ff45d8fd80939978cffd": {
+   "id": "f02bec54",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "233acd141392258722048a2a": {
+   "id": "f02bec54",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "a580102bbd3683dc069fb18f": {
+   "id": "f02bec54",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "enterprise",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "13073ab42120bdcccd81a7c7": {
+   "id": "01f6e679",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "c4dbb3046a8d92c6950c5e3b": {
+   "id": "01f6e679",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "530aec196fdc0b14c9824898": {
+   "id": "01f6e679",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d79d2664c1dba5d144eba851": {
+   "id": "01f6e679",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "0992f3b4472e0015ed27186f": {
+   "id": "0382ed92",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "06c3ea90c450c46a9eabbf94": {
+   "id": "0382ed92",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "637cf8b0f10ebe5c82b201da": {
+   "id": "0382ed92",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "d0265da66fc80ecaf408fdad": {
+   "id": "0382ed92",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "e5fd18056e96535ef7cd7653": {
+   "id": "0401f0c8",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a31b24b9ee80bc8c95b03cc4": {
+   "id": "0401f0c8",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "da38c73059b3f2c5b5cacb90": {
+   "id": "0401f0c8",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "806fd9da37cedf917e989b5a": {
+   "id": "0401f0c8",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "80bfbf3a9b9392685886f793": {
+   "id": "0a13e290",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "c9a842447723b980d1060f08": {
+   "id": "0a13e290",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a45d9fa331eeccf7a1c061af": {
+   "id": "0a13e290",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "5f7847fab9a78add8c285558": {
+   "id": "0a13e290",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "42f16e098def0885f712b93b": {
+   "id": "0ace674b",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "2a680cb06374cf1fa267ecbe": {
+   "id": "0ace674b",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "b555775202370caf02a1650e": {
+   "id": "0ace674b",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "d0025a67d28114343f561119": {
+   "id": "0ace674b",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "366b6adb66caf2e9cd5a5b4d": {
+   "id": "0af83ccc",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "17195a979535f856f4e56036": {
+   "id": "0af83ccc",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "0a88ce3f3efa596b30ed3092": {
+   "id": "0af83ccc",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "e4ec2a6208ce43e6e336dccf": {
+   "id": "0af83ccc",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "c8d618a02c34d2ff28064538": {
+   "id": "0cd6dc43",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "fa32ec11fd661d52b6afadcd": {
+   "id": "0cd6dc43",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "39e1bb0fb6f30966c1bbbff5": {
+   "id": "0cd6dc43",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "9c0dd275e20f03adbf946650": {
+   "id": "0cd6dc43",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "3a09d9c9670173037e10f591": {
+   "id": "196a68fb",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "6544435b1fd9a3252bc87a45": {
+   "id": "196a68fb",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "acae0c51703b281468049852": {
+   "id": "196a68fb",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "956432440ad4f1166401fc62": {
+   "id": "196a68fb",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "d9b1e3596d7ab7abaaa4f99f": {
+   "id": "1a89c3ac",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "6dbff79c108c1de5a17068f8": {
+   "id": "1a89c3ac",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "4af89e558d0361d296db8a76": {
+   "id": "1a89c3ac",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "0c49425b7877e5a30955a62a": {
+   "id": "1a89c3ac",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "90a7e2b9cfc4ebd158a7aa80": {
+   "id": "1fec75e5",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "5aa3177eb0ab51459a31f48b": {
+   "id": "1fec75e5",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "c1866fe4b9fe2dc5e41bf999": {
+   "id": "1fec75e5",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "c2f589bd54766efe5aa290bd": {
+   "id": "1fec75e5",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "11cc48f029300910587f7fe3": {
+   "id": "21df0107",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "c81d9e8e5b9886a424f6419a": {
+   "id": "21df0107",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "6e42d0ee0b5832587578aa8b": {
+   "id": "21df0107",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "bd27194004f40c0d9af0591c": {
+   "id": "21df0107",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "e73a528ace23d9cf717b6c3b": {
+   "id": "21f3228c",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "8be9b14a79de6f47e985410d": {
+   "id": "21f3228c",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "9ea619c4bd1cdb79e5181735": {
+   "id": "21f3228c",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "cd7d0d2e00b789dc8d57a222": {
+   "id": "21f3228c",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "c0c30639bb0dd9db66c1951a": {
+   "id": "2408b115",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "5704b3e25f5318c90e31592e": {
+   "id": "2408b115",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "e1f74541b17bcb8115208c22": {
+   "id": "2408b115",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "a9165ae027c90e300b3d2658": {
+   "id": "2408b115",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6d0fdec8524e2cf056cb1303": {
+   "id": "25853d7f",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "fde01088664c566568b6e835": {
+   "id": "25853d7f",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "2a96a6f10ff2815957009a40": {
+   "id": "25853d7f",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "7c313fb18817ecff1fc92b16": {
+   "id": "25853d7f",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "ba913d7fcd7715b71cd0c2fb": {
+   "id": "25dc1d7d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "d36f739330999b7b1eb1b5ab": {
+   "id": "25dc1d7d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "75d53a3c762a456e6540ebb5": {
+   "id": "25dc1d7d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "ddc58466d003de81713f98db": {
+   "id": "25dc1d7d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "e5053d4971217be1d2d1675f": {
+   "id": "358c13ce",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "0cc47989d1f595253887e0d7": {
+   "id": "358c13ce",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "4bc37d0ceb44ef516ae11165": {
+   "id": "358c13ce",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "12e93e64d2dfe33701d4b976": {
+   "id": "358c13ce",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "484c59c10227a4a536aba797": {
+   "id": "3b8210a1",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "16757e3855c96f546371fa2d": {
+   "id": "3b8210a1",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "a7f5c915ce4e46059384f741": {
+   "id": "3b8210a1",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "7330e995dee33163ec664163": {
+   "id": "3b8210a1",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "e658d21b0cc142cf408ba14c": {
+   "id": "4121647c",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "03968ed442a51288b6e7f8e5": {
+   "id": "4121647c",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "771e4622e309d4f6f56bf035": {
+   "id": "4121647c",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "7f9ed7cf32327b74557187ea": {
+   "id": "4121647c",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "2ab7d7621cb2fc2a3430fc55": {
+   "id": "4a4aad22",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "22aa7d5b95bac29692f2a2f9": {
+   "id": "4a4aad22",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "0b5c680dd775f4ee5c77517d": {
+   "id": "4a4aad22",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "ec078f2e3d4ab9f5f630efd1": {
+   "id": "4a4aad22",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "57db41ee48eaafa2d9d45266": {
+   "id": "4b0c5275",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "01f922f73c41b34333a687ff": {
+   "id": "4b0c5275",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "dd906bd9b0cf22202c986ca1": {
+   "id": "4b0c5275",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "17c64d1791a0044d0b491035": {
+   "id": "4b0c5275",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a2ea48f67fdde675f3882099": {
+   "id": "4cb090a9",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "efb71093d7dc0b05a33516a0": {
+   "id": "4cb090a9",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "f6e702a6edf44c7728c82427": {
+   "id": "4cb090a9",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "0c0efef25335a482aab664e3": {
+   "id": "4cb090a9",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "bd028cdab2afbe6da9a73b8d": {
+   "id": "51764e11",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "ebd038257a01c44cf29eeb32": {
+   "id": "51764e11",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "98f3bbda56c0abd258ca7494": {
+   "id": "51764e11",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "bebf860e621e4d0a063b20d0": {
+   "id": "51764e11",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "0e83e814927df8fe9029a1bc": {
+   "id": "549c0657",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "80cce20726ff8aa852f74ad4": {
+   "id": "549c0657",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "8f5c89f5f4336ef4faf5715b": {
+   "id": "549c0657",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "a31eb8987d640dccb6111d1d": {
+   "id": "549c0657",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "f3f2cb5615fe76280fe9c4e0": {
+   "id": "577ab4ee",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "254886cc0bf4f4e249f4812e": {
+   "id": "577ab4ee",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "9713fce40f7b750907a9cd2f": {
+   "id": "577ab4ee",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "99d59e09b11556deca819126": {
+   "id": "577ab4ee",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6135bb7c27205e2ff39c49d1": {
+   "id": "57817b87",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "4b03aca4e75338a653e17a54": {
+   "id": "57817b87",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "8788dc6249a20f0674c020a7": {
+   "id": "57817b87",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6e2da6086551271a696864e5": {
+   "id": "57817b87",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "033ce8cb6e1ba70db01901cf": {
+   "id": "5d6ecdeb",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "cbade3a0023ca7cfbfc06f8f": {
+   "id": "5d6ecdeb",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "873c6522a232e6efac3411c7": {
+   "id": "5d6ecdeb",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "117a51eb3b1b65abbd978174": {
+   "id": "5d6ecdeb",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "65b3ba92d6b4d2d42002ef8f": {
+   "id": "6517165d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "b45f0e2b5563be33556eea6c": {
+   "id": "6517165d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "43d46a19126b13b4cc6d7b6f": {
+   "id": "6517165d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "314226c2919508f8cf4a75fa": {
+   "id": "6517165d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d65a65e626937eb5eedaba48": {
+   "id": "66ed4c72",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "63d5339f87ec59817190184e": {
+   "id": "66ed4c72",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d7f8ea5ef0328e0ef491f423": {
+   "id": "66ed4c72",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "ac95f131d8d354115080d4b0": {
+   "id": "66ed4c72",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "9ab64b23325ab2114430a689": {
+   "id": "6a7f0d24",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "5c1ed7762b1cf6e63486e109": {
+   "id": "6a7f0d24",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "7b3f278ac40a49124c66674b": {
+   "id": "6a7f0d24",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "e18b11fa0f5e1a0d9438dd9f": {
+   "id": "6a7f0d24",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "1b8cd11c606ed34fbb0bb84a": {
+   "id": "6fc8c511",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6fd5d45f9195e562917b2fa2": {
+   "id": "6fc8c511",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "f5b0587ad49fde8975c966f8": {
+   "id": "6fc8c511",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "f8aac140e23eddda644329e3": {
+   "id": "6fc8c511",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "296d7c339705a90b13929e92": {
+   "id": "6feb33d4",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "5c2e0f445aba7dc3b89b5383": {
+   "id": "6feb33d4",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "636ccc48a56bb8c7dc1eeff5": {
+   "id": "6feb33d4",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "421f8c1f64b32366c60662fb": {
+   "id": "6feb33d4",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "b7d84a603a74bdb640dfc476": {
+   "id": "7195f494",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "e8bb1bd6398c7a267e122763": {
+   "id": "7195f494",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "bf87f8ee6ff3a409f19c2e92": {
+   "id": "7195f494",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "61a580ac08db3cdf68c4219e": {
+   "id": "7195f494",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "8348e9774845cadbab01880d": {
+   "id": "733699a5",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "8e6498bf2210ae1c22ebc49b": {
+   "id": "733699a5",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "ca3a5d886c8e82a881b7bce5": {
+   "id": "733699a5",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "9ad076d45b6894b33eaf1172": {
+   "id": "733699a5",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "957b295d85d27489856915da": {
+   "id": "7376c10d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "cb448c05f3d0ca9b39cf19ee": {
+   "id": "7376c10d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "5c2742624e72b13db9291e8b": {
+   "id": "7376c10d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "71100449cf572345d43779ee": {
+   "id": "7376c10d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "3e47a743d4649a778440c0c0": {
+   "id": "7ebb0b95",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "06f745e89bb51e0425fa60c8": {
+   "id": "7ebb0b95",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "d15b9c781a767b7ce03926a8": {
+   "id": "7ebb0b95",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "a6d0e6acba0c930475080df2": {
+   "id": "7ebb0b95",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "c820504da943d10d3755a45e": {
+   "id": "83a77f9d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "1e9bbf76c3084d85e683ec32": {
+   "id": "83a77f9d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "e05f6e3b39fcef001633cc04": {
+   "id": "83a77f9d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "814573fc74934c6c5a311c6b": {
+   "id": "83a77f9d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "cb0fdb8e2963714db25e6fca": {
+   "id": "84238c8f",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "3b4febf698687bd83ca36756": {
+   "id": "84238c8f",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "baf28cc9e410ad241eb34e8b": {
+   "id": "84238c8f",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "187950d067f8ebff5c4c3e52": {
+   "id": "84238c8f",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "303d4d13e2666c67f6f84df6": {
+   "id": "866a0f2e",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "14d9ec2836cd25b31f7d5b1e": {
+   "id": "866a0f2e",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "178ad77febfb8fe8aaa89df0": {
+   "id": "866a0f2e",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "36547bc532a809a11d875d83": {
+   "id": "866a0f2e",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "0da2d6213b295f78cb25d730": {
+   "id": "86f00073",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "7906ff9829614ca0779e41f3": {
+   "id": "86f00073",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "88ae649fc0ee057f5a05c0ac": {
+   "id": "86f00073",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "ecf7a08c51f4c83f801d91f0": {
+   "id": "86f00073",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "eb2b8cfe297be387d12974d8": {
+   "id": "89a20f48",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "73f370111287d73e805edc03": {
+   "id": "89a20f48",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "6307ba6b350b7f204596a111": {
+   "id": "89a20f48",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "341d9ae73e5c7efb4f166b75": {
+   "id": "89a20f48",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "2d857b20f3848025fdf523b3": {
+   "id": "8a8f6aac",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "dbdab3f8b00539782ca5619d": {
+   "id": "8a8f6aac",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "bf288a62d82fed08da159543": {
+   "id": "8a8f6aac",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "f18f6a90b63951b82c61f9c9": {
+   "id": "8a8f6aac",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "003f3fe0ffa1055320a91ca6": {
+   "id": "8da5c407",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "6300a0217420160dc62e7dd4": {
+   "id": "8da5c407",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "02502f1d5cf6a29357c47cfa": {
+   "id": "8da5c407",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "fb2fa6dfcb30de9d1a3ba678": {
+   "id": "8da5c407",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "3b315d9ff9186e8153d6b8d8": {
+   "id": "922a0c56",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "3bb12cebce12f0fe02925347": {
+   "id": "922a0c56",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6b861fc720d941598f620c68": {
+   "id": "922a0c56",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "a9d9f852067319bdd2fc1093": {
+   "id": "922a0c56",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "dfc39606f0bdfcd2e333914b": {
+   "id": "97e1d977",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "cb3a037f537d69483001ffbc": {
+   "id": "97e1d977",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "e6c4423f593b9280bfed8208": {
+   "id": "97e1d977",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "495725e4bb3dd99e0d75cab0": {
+   "id": "97e1d977",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "955eaf6d600379f9320c67b4": {
+   "id": "98e6d369",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "6dfb859ca05701015672c561": {
+   "id": "98e6d369",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "2a1e008ab7fcad2aa45e3ddf": {
+   "id": "98e6d369",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "5bd835a582b0669786a9e8c6": {
+   "id": "98e6d369",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "016d461f67fd1b45006ab02a": {
+   "id": "9ed5a14d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "c8b710148f7059a36ee5cfe1": {
+   "id": "9ed5a14d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "67a5ba6f7727b2d6e624918f": {
+   "id": "9ed5a14d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "36bef57fe9faa18efca5ec57": {
+   "id": "9ed5a14d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "4e87fdaaa183c7f3514dedd0": {
+   "id": "a2673690",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "a356e8c4f747967172d84520": {
+   "id": "a2673690",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "525a9874699e00c419d668e2": {
+   "id": "a2673690",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "889b3405d31023aab235df78": {
+   "id": "a2673690",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "c6e020edee59c284feaab936": {
+   "id": "a2a71197",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "664f5a55366d17278654d295": {
+   "id": "a2a71197",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "2f13aa4a8fb3633f50abd072": {
+   "id": "a2a71197",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "e9f2e90785ca46a042cee47e": {
+   "id": "a2a71197",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "7509071c82290d385fc15b56": {
+   "id": "a363341d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "958c68e6535bb78b7379b8f2": {
+   "id": "a363341d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "a03c0fb091f776420b9e3b9f": {
+   "id": "a363341d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "8092ae9e8dccba528397205a": {
+   "id": "a363341d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "c4b7c03bdf865ab2b5d53b75": {
+   "id": "aa8d21f5",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "2875fed9da2026140fae9c14": {
+   "id": "aa8d21f5",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "7b9757e42a1ab0bc6c931c28": {
+   "id": "aa8d21f5",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "8d2ee5b6126ac1f2231f3d9c": {
+   "id": "aa8d21f5",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d106418c5a490e1670c52c29": {
+   "id": "b05cf470",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "dfbd4e0f9d04041538738da9": {
+   "id": "b05cf470",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d281ea3325b96f4a21f595e5": {
+   "id": "b05cf470",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "5e55c6d969e16b7c0abd385d": {
+   "id": "b05cf470",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "037fa9a9f0ace673b52605a9": {
+   "id": "bb7ebd5c",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "736a475f751be0fda8ea749b": {
+   "id": "bb7ebd5c",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "b96fce44bc99956cd6d7962d": {
+   "id": "bb7ebd5c",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "73f8079eeba12d2f901cabdf": {
+   "id": "bb7ebd5c",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "a0af60cbc7ce8399b77e6a34": {
+   "id": "c216174c",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "a23f506853c1e05f1915857c": {
+   "id": "c216174c",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "8ee150453a44a64a0e9ae58b": {
+   "id": "c216174c",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "812d709bed84684f2cfdf3b1": {
+   "id": "c216174c",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "56c8510c6bac47658c94dde9": {
+   "id": "c5dfa558",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "749e69da9eb43052e43ace8a": {
+   "id": "c5dfa558",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "591eff353a415f3273ccac2b": {
+   "id": "c5dfa558",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "c80872f342e873d16b983ccf": {
+   "id": "c5dfa558",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "4792f8dbed3d1dbc88868425": {
+   "id": "cdb47c5d",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "045523539bec11ba53f55280": {
+   "id": "cdb47c5d",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "03b6426b0c2d055f21b60d58": {
+   "id": "cdb47c5d",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "5a0b3d2d9f5e43c06cf75927": {
+   "id": "cdb47c5d",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "bba9efe3ddadb585c38ff735": {
+   "id": "cdc46516",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "943581b38df0ce6a7c82fb45": {
+   "id": "cdc46516",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "97ec010b295998de944f00fb": {
+   "id": "cdc46516",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "44ef3b7658d30a8a646aa81a": {
+   "id": "cdc46516",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "bd77b34aee0e6b915b099959": {
+   "id": "d47ca5c8",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "e71a2219d6b51a5c5e286a48": {
+   "id": "d47ca5c8",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "733b8cd0ba25c6d7051cc284": {
+   "id": "d47ca5c8",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "e68200a317a1b9b2c0511659": {
+   "id": "d47ca5c8",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "3456b2437f41552006a6f5bb": {
+   "id": "d7c94023",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "bbcf881e1e482499ed452dc9": {
+   "id": "d7c94023",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "8110fecb5e84d785d161a44b": {
+   "id": "d7c94023",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "aa72d8bb8abfd9c5c7666f3a": {
+   "id": "d7c94023",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "6dd1045eadcbafd2ab2d6449": {
+   "id": "e532c01e",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "50e59289178ea14224383048": {
+   "id": "e532c01e",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "741e4fa7061502cd446a699c": {
+   "id": "e532c01e",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "7dbc21ffd841cf7c947ec2c9": {
+   "id": "e532c01e",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "da5f9993f4cbf9e73f113d96": {
+   "id": "eaba5c44",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "4fdc911e59d2d5393583553c": {
+   "id": "eaba5c44",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "090e65c3cd19ef053fe777f2": {
+   "id": "eaba5c44",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d8e1cf94e4e4e5a53a62b22f": {
+   "id": "eaba5c44",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "3f6a605c7b3432dfab22ed9b": {
+   "id": "ecca89b2",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "8215cbac4949e46be474a71b": {
+   "id": "ecca89b2",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "d192be25ea1ee3043171f6fc": {
+   "id": "ecca89b2",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "5bbb386e9508390c7a770b79": {
+   "id": "ecca89b2",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "3efdb3ab2f2fb699609c800a": {
+   "id": "ecd9dda3",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "74b9d9a465874caf86043993": {
+   "id": "ecd9dda3",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "74e7dbdd9d56e6e1d35aaec8": {
+   "id": "ecd9dda3",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "3099df799586cbe19d7b4315": {
+   "id": "ecd9dda3",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "5ba1e2a15a2de5dcd88d0708": {
+   "id": "edc22f24",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "760a3ded71f338af4caabc86": {
+   "id": "edc22f24",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "ce385c5ddae3fa41faf9560d": {
+   "id": "edc22f24",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "df841e4ba49763c4aeea0d50": {
+   "id": "edc22f24",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "7e43595e6b184835e8e4a431": {
+   "id": "ee75b921",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "c92c6a6b060c0a206b798f5b": {
+   "id": "ee75b921",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "af14ed6afd9860c1670976b1": {
+   "id": "ee75b921",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "863ac8478b7eca6ad6539736": {
+   "id": "ee75b921",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "788bedb9d7b584acd9d7f01b": {
+   "id": "eec85674",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "c76518cc370ea7e6afe1e9bc": {
+   "id": "eec85674",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "7249e2c63de26e4530bc68f6": {
+   "id": "eec85674",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "efd83b4d617e37c9b9304d14": {
+   "id": "eec85674",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "d4d831f5bc085913153bbc34": {
+   "id": "eff00409",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "85eeebaa928040eb2d08c7c1": {
+   "id": "eff00409",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "2b7e836142d0b2f1c051def5": {
+   "id": "eff00409",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "0887199d5858e4cd8c9fe086": {
+   "id": "eff00409",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "c08d1a5b77b9d5e18a1db68b": {
+   "id": "f078f429",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "c74e85d4c419ebb9ece92a24": {
+   "id": "f078f429",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "ff61aa8a3652285717b8ece1": {
+   "id": "f078f429",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "33246c1a59231fda52b834ce": {
+   "id": "f078f429",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "length"
+  },
+  "a1324d923808bc80a16f0d09": {
+   "id": "f43926d9",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "daaeaa175e39d3ac25045fc8": {
+   "id": "f43926d9",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "f8246b47333b3a7d8206c0b3": {
+   "id": "f43926d9",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "dd1351598e24e1270f655f96": {
+   "id": "f43926d9",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "5fd3c32332f87198d85d08b9": {
+   "id": "f90f2255",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "40ad59849003f75401887680": {
+   "id": "f90f2255",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "0537d9fe97bb59ab8efed6cf": {
+   "id": "f90f2255",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "b66f2201e11422eaed7f0231": {
+   "id": "f90f2255",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "efa4177bbd7fabf1f1840a42": {
+   "id": "fc0dbc35",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "b680ba202e42f3dbcbe32453": {
+   "id": "fc0dbc35",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "stop"
+  },
+  "5a5f6f5e30fbc9675ac9c5bc": {
+   "id": "fc0dbc35",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "0945a5f408627949b7f7aadf": {
+   "id": "fc0dbc35",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "static-environment-abs",
+   "finish": "length"
+  },
+  "a356420b9b326bad902126ef": {
+   "id": "fc7d35d5",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "aab77a848a89d4b80c041cf9": {
+   "id": "fc7d35d5",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "ca19f19731fd10e0ec822697": {
+   "id": "fc7d35d5",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "799ec8c8185d6450dfecb1bd": {
+   "id": "fc7d35d5",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "procedure-abs",
+   "finish": "stop"
+  },
+  "ce8125f5dc496744beee24ce": {
+   "id": "fd006924",
+   "arm": "phrase+nextdelta",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "c04ffe4ad2dd36fff0537056": {
+   "id": "fd006924",
+   "arm": "phrase+nextdelta",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  },
+  "cd133e8b374505fac3d99384": {
+   "id": "fd006924",
+   "arm": "summary",
+   "budget": 32000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "length"
+  },
+  "fd6ae4dfa6ed36bebb3d932c": {
+   "id": "fd006924",
+   "arm": "summary",
+   "budget": 8000,
+   "domain": "web",
+   "type": "dynamic-environment-abs",
+   "finish": "stop"
+  }
+ },
+ "auto_zero_empty": []
+}

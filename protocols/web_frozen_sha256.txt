@@ -1,0 +1,11 @@
+97d654f0f7aa1964  build_arms.py
+b5f73b3aa6594068  build_cheap_index.py
+85ac304606c8a690  build_confirm.py
+60ecf7f207413d3b  build_index_route.py
+e64675c3623dcae5  confirm_analysis.py
+42b0d66ea10c5284  run_reader.py
+e71b2e763eca19ce  score_feasibility.py
+cfe7374f9d2c002d  score_wrap.py
+b8ad7cd188ef640e  WEB_PROTOCOL_ADDENDUM.md
+d0bc5d5a8bf821ce  web_question_split.json
+955ce57cb3a3124b  confirm/contexts.jsonl

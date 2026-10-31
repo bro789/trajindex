@@ -1,0 +1,26 @@
+{
+ "lazy_coarse_8000": {
+  "distinct_summary_units_materialised": 448,
+  "of_total_units": 3458
+ },
+ "lazy_coarse_32000": {
+  "distinct_summary_units_materialised": 1184,
+  "of_total_units": 3458
+ },
+ "lazy_embed_8000": {
+  "distinct_summary_units_materialised": 433,
+  "of_total_units": 3458
+ },
+ "lazy_embed_32000": {
+  "distinct_summary_units_materialised": 1319,
+  "of_total_units": 3458
+ },
+ "lazy_rewrite_8000": {
+  "distinct_summary_units_materialised": 325,
+  "of_total_units": 3458
+ },
+ "lazy_rewrite_32000": {
+  "distinct_summary_units_materialised": 798,
+  "of_total_units": 3458
+ }
+}

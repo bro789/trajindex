@@ -1,0 +1,14 @@
+{
+  "8000": {
+    "distinct_summary_units_materialised": 327,
+    "events": 265,
+    "notes": 62,
+    "of_total_units": 3458
+  },
+  "32000": {
+    "distinct_summary_units_materialised": 740,
+    "events": 674,
+    "notes": 66,
+    "of_total_units": 3458
+  }
+}

@@ -1,0 +1,7 @@
+{
+ "doc_tokens": 8796041,
+ "doc_seconds": 190.45010018348694,
+ "query_tokens": 4049,
+ "units": 6192,
+ "model": "Qwen3-Embedding-0.6B"
+}
